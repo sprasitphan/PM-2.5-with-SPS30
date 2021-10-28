@@ -1,5 +1,5 @@
 # PM 2.5 with SPS30
-Sensirion PM SPS30 for ESP32 & ESP8266 that operate and communicate through the I2C interface. I use this code work with **Blynk**, **NODE-RED** and **ThingsBoard**. Using **Blynk** for recieving data of PM 2.5 from sensor and send to **NODE-RED** that work similarly to MQTT and UDP.
+Sensirion PM SPS30 for ESP32 & ESP8266 that operate and communicate through the I2C interface. I use this code work with **Blynk**, **NODE-RED** and **ThingsBoard**. Using **Bridge** function of **Blynk** for recieving data of PM 2.5 from sensor and send to **NODE-RED** that work similarly to MQTT and UDP.
 Using **NODE-RED** for recieving data of PM 2.5 from **Blynk** and send to **ThingsBoard** for display on dashboard. **You can edit and change code following to your usage**
 
 # Installation in Arduino IDE
